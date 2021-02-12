@@ -2,8 +2,10 @@
 
 #### Diamonds - predict diamond price ( regression )
 
-> https://www.kaggle.com/shivam2503/diamonds
+> dataset: https://www.kaggle.com/shivam2503/diamonds
 
-#### Mushrooms - predict if "Safe to eat or deadly poison?"
+#### League of legends - first 10 minutes of challanger games.
 
-> https://www.kaggle.com/uciml/mushroom-classification/notebooks
+- #### predict who's gonna win based on the first 10 minutes.
+
+> dataset: https://www.kaggle.com/gyejr95/league-of-legends-challenger-rank-game10min15min
